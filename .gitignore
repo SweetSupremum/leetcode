@@ -3,3 +3,4 @@
 /httpRequests/
 /leetcode.iml
 /.idea/*
+/target/*
