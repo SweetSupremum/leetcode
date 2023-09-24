@@ -21,13 +21,11 @@ public class BinarySearch {
                 return middle;
             }
             if (nums[middle] < target) {
-                left = middle;
+                left = middle + 1;
             }
             if (nums[middle] > target) {
-                right = middle;
+                right = middle - 1;
             }
-            left++;
-            right--;
         }
         return -1;
     }
