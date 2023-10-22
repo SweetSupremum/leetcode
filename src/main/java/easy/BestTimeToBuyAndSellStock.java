@@ -1,6 +1,8 @@
 package easy;
 
 /**
+ * {@see https://leetcode.com/problems/best-time-to-buy-and-sell-stock/}
+ *
  * @author SweetSupremum
  */
 public class BestTimeToBuyAndSellStock {
